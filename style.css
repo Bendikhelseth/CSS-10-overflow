@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    border: 2px solid black;
+    overflow: scroll;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
